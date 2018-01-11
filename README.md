@@ -8,8 +8,7 @@ high cohesion throughout its design by correctly applying abstraction, encapsula
 composition and inheritance
 
 # How To Run
-If you find the .jar file included in the the project type the following command in any command-line interface
-    java -jar OOP_Proj.jar
+If you find the .jar file included in the the project type the following command in any command-line interface: (java -jar OOP_Proj.jar). 
 This will open the program on your computer or laptop. You could also clone the project and run it.
 
 # Contents
